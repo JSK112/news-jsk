@@ -9,6 +9,7 @@ const Nav = () => {
         <ul className="flex space-x-6 text-2xl pr-10">
           <li><Link href="/news/">News</Link></li>
           <li><Link href="/add/">addNews</Link></li>
+          <li><Link href="/secret7/">NO</Link></li>
         </ul>
       </nav>
       
